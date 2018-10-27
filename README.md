@@ -1,4 +1,4 @@
-# Feature Selection and Similarity Analysis of News Articles using R
+## Feature Selection and Similarity Analysis of News Articles in R
 
 1. Download the news articles dataset named “20news-18828.tar.gz”, from an online textual
 dataset repository: http://qwone.com/%7Ejason/20Newsgroups/. The 20 Newsgroups data set is a
